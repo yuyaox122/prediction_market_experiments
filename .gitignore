@@ -1,0 +1,10 @@
+# Large local data (~70 GB parquet cache) — not versioned
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

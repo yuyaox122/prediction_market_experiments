@@ -1,0 +1,11 @@
+{
+ "n_wallets": 1928488,
+ "frac_losing": 0.6376088417454503,
+ "frac_winning": 0.353640779719656,
+ "total_profit_of_winners": 791997290.371138,
+ "total_loss_of_losers": -791997290.3711386,
+ "top1pct_share_of_profits": 0.8433485404195463,
+ "top100_share": 0.236580062857281,
+ "n_markets": 798744,
+ "notional_one_sided": 21033937168.243042
+}
